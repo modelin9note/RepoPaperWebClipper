@@ -1,0 +1,66 @@
+{
+  "name": "Prediction of hypertension",
+  "timestamp": "2025-05-07T01:11:12.582Z",
+  "responses": [
+    {
+      "type": "요약 [gemini-1.5-flash]",
+      "content": "이 체계적 고찰 및 메타 분석은 기존 회귀 분석과 머신러닝 모델을 사용한 고혈압 예측에 대한 연구를 검토합니다.  즉, 다양한 통계적 기법을 이용하여 고혈압을 예측하는 연구들을 종합적으로 분석하여 그 효과성과 정확성을 평가했다는 의미입니다.\n"
+    },
+    {
+      "type": "한글→영어 (단어 분석) [gemini-1.5-flash]",
+      "content": "## 번역:\n\n전통적인 회귀 분석 및 머신러닝 모델을 이용한 고혈압 예측: 체계적 문헌 고찰 및 메타 분석\n\n\n## 단어 및 의미:\n\n* **Prediction:** 예측\n* **hypertension:** 고혈압\n* **using:** ~을 사용하여\n* **traditional:** 전통적인\n* **regression:** 회귀 분석\n* **and:** 그리고\n* **machine learning:** 머신러닝\n* **models:** 모델들\n* **A:** 하나의\n* **systematic:** 체계적인\n* **review:** 문헌 고찰\n* **and:** 그리고\n* **meta-analysis:** 메타 분석\n\n\n"
+    },
+    {
+      "type": "한국어 번역 [gemini-1.5-flash]",
+      "content": "---\n\n\n### 원문: Prediction of hypertension using traditional regression and machine learning models: A systematic review and meta-analysis\n### 번역: 기존 회귀 분석 및 기계 학습 모델을 이용한 고혈압 예측: 체계적 문헌 고찰 및 메타 분석\n---\n\n\n"
+    },
+    {
+      "type": "요약 [gemini-1.5-flash]",
+      "content": "본 연구는 기존의 회귀 분석 또는 머신러닝 기반 고혈압 위험 예측 모델들을 확인하고, 그 예측 성능을 비교하는 것을 목표로 합니다.\n"
+    },
+    {
+      "type": "한글→영어 (단어 분석) [gemini-1.5-flash]",
+      "content": "## 한국어 번역:\n\n**초록**\n\n**목적**\n\n본 연구는 기존의 회귀분석 기반 또는 기계 학습 기법을 사용하여 개발된 고혈압 위험 예측 모델을 확인하고, 그 예측 성능을 비교하는 것을 목표로 하였습니다.\n\n\n## 영어 단어 및 한국어 의미:\n\n* **Abstract:** 초록, 요약\n* **Objective:** 목적, 목표\n* **We:** 우리는 (주어)\n* **aimed:** 목표로 하였다, 목표했다\n* **to identify:** 확인하다, 식별하다\n* **existing:** 기존의, 현존하는\n* **hypertension:** 고혈압\n* **risk:** 위험\n* **prediction:** 예측\n* **models:** 모델들, 모형들\n* **developed:** 개발된\n* **using:** 사용하여\n* **traditional:** 전통적인\n* **regression-based:** 회귀분석 기반의\n* **or:** 또는\n* **machine learning:** 기계 학습\n* **approaches:** 접근법들, 방법들\n* **and:** 그리고\n* **compare:** 비교하다\n* **their:** 그들의\n* **predictive:** 예측적인\n* **performance:** 성능\n\n\n"
+    },
+    {
+      "type": "한국어 번역 [gemini-1.5-flash]",
+      "content": "---\n\n\n### 원문: Abstract\n### 번역: 초록\n---\n\n\n\n---\n\n\n### 원문: Objective\n### 번역: 목적\n---\n\n\n\n---\n\n\n### 원문: We aimed to identify existing hypertension risk prediction models developed using traditional regression-based or machine learning approaches and compare their predictive performance.\n### 번역: 기존의 회귀 분석 기반 또는 머신러닝 기법을 사용하여 개발된 고혈압 위험 예측 모델들을 확인하고, 그 예측 성능을 비교하는 것을 목표로 하였다.\n---\n\n\n"
+    },
+    {
+      "type": "요약 [gemini-1.5-flash]",
+      "content": "본 연구는 고혈압 위험 예측을 위한 기존 회귀 모델과 머신러닝 모델의 예측 성능을 비교 분석하기 위해 MEDLINE, EMBASE, Web of Science, Scopus 및 회색 문헌을 체계적으로 검색했습니다. 개별 연구의 C-statistic을 요약 통계량으로 사용하여,  무작위 효과 메타 분석을 통해 풀링된 추정치를 얻었습니다.  메타 회귀 분석을 통해 이질성의 잠재적 원인을 평가하고, PROBAST 체크리스트를 이용하여 연구 질을 평가했습니다.\n"
+    },
+    {
+      "type": "한글→영어 (단어 분석) [gemini-1.5-flash]",
+      "content": "## 번역:\n\n본 연구는 일반 성인 인구집단에서 고혈압 위험을 예측하는 연구들을 체계적으로 검색하기 위해 MEDLINE, EMBASE, Web of Science, Scopus 및 회색 문헌을 조사했습니다. 개별 연구의 요약 통계량은 C-통계량이었으며, 랜덤 효과 메타 분석을 사용하여 통합 추정치를 얻었습니다. 통합 추정치의 예측 성능은 기존의 회귀 분석 기반 모델과 머신러닝 기반 모델 간에 비교되었습니다. 메타 회귀 분석을 사용하여 이질성의 잠재적 원인을 평가했으며, PROBAST (예측 모델 편향 위험 평가 도구) 체크리스트를 사용하여 연구의 질을 평가했습니다.\n\n\n## 단어 및 한글 의미:\n\n* **Methods:** 방법\n* **systematically:** 체계적으로, 조직적으로\n* **searched:** 검색했다\n* **MEDLINE:** 메드라인 (의학 문헌 데이터베이스)\n* **EMBASE:** 엠베이스 (의학 문헌 데이터베이스)\n* **Web of Science:** 웹 오브 사이언스 (학술 논문 인용 색인 데이터베이스)\n* **Scopus:** 스코퍼스 (학술 논문 인용 색인 데이터베이스)\n* **grey literature:** 회색 문헌 (정식 출판 과정을 거치지 않은 문헌)\n* **studies:** 연구들\n* **predicting:** 예측하는\n* **risk:** 위험\n* **hypertension:** 고혈압\n* **among:** ~중에서, ~사이에\n* **general adult population:** 일반 성인 인구\n* **Summary statistics:** 요약 통계량\n* **individual studies:** 개별 연구들\n* **C-statistic:** C-통계량 (AUC, 곡선 아래 면적)\n* **random-effects meta-analysis:** 랜덤 효과 메타 분석\n* **pooled estimates:** 통합 추정치\n* **predictive performance:** 예측 성능\n* **traditional regression-based models:** 기존의 회귀 분석 기반 모델\n* **machine learning-based models:** 머신러닝 기반 모델\n* **potential sources:** 잠재적 원인\n* **heterogeneity:** 이질성\n* **meta-regression:** 메타 회귀 분석\n* **study quality:** 연구 질\n* **PROBAST (Prediction model Risk Of Bias ASsessment Tool):** PROBAST (예측 모델 편향 위험 평가 도구)\n* **checklist:** 체크리스트\n\n\n"
+    },
+    {
+      "type": "한국어 번역 [gemini-1.5-flash]",
+      "content": "---\n\n\n### 원문: Methods\n### 번역: 방법\n---\n\n\n\n---\n\n\n### 원문: We systematically searched MEDLINE, EMBASE, Web of Science, Scopus, and the grey literature for studies predicting the risk of hypertension among the general adult population.\n### 번역: 성인 일반 인구집단에서 고혈압 위험을 예측하는 연구들을 MEDLINE, EMBASE, Web of Science, Scopus 및 회색 문헌을 체계적으로 검색했습니다.\n---\n\n\n\n---\n\n\n### 원문: Summary statistics from the individual studies were the C-statistic, and a random-effects meta-analysis was used to obtain pooled estimates.\n### 번역: 개별 연구의 요약 통계는 C-통계량이었으며, 랜덤 효과 메타 분석을 사용하여 통합 추정치를 얻었습니다.\n---\n\n\n\n---\n\n\n### 원문: The predictive performance of pooled estimates was compared between traditional regression-based models and machine learning-based models.\n### 번역: 통합 추정치의 예측 성능은 기존 회귀 기반 모델과 머신러닝 기반 모델 간에 비교되었습니다.\n---\n\n\n\n---\n\n\n### 원문: The potential sources of heterogeneity were assessed using meta-regression, and study quality was assessed using the PROBAST (Prediction model Risk Of Bias ASsessment Tool) checklist.\n### 번역: 메타 회귀 분석을 사용하여 이질성의 잠재적 원인을 평가했고, PROBAST (예측 모델 편향 위험 평가 도구) 체크리스트를 사용하여 연구 질을 평가했습니다.\n---\n\n\n"
+    },
+    {
+      "type": "요약 [gemini-1.5-flash]",
+      "content": "14,778개의 논문 중 52개가 체계적 문헌고찰에, 32개가 메타분석에 선정되었습니다.  기존 회귀 모델의 통합 C-통계량은 0.75 [0.73–0.77] 이었고, 머신러닝 기반 모델은 0.76 [0.72–0.79] 이었습니다.  C-통계량에 높은 이질성이 관찰되었으며, 기존 회귀 모델의 이질성 원인으로는 참가자의 나이 (p = 0.011), 성별 (p = 0.044), 그리고 모델에 고려된 위험 요인의 수 (p = 0.001)가 확인되었습니다.\n"
+    },
+    {
+      "type": "한글→영어 (단어 분석) [gemini-1.5-flash]",
+      "content": "## 번역\n\n총 14,778개의 논문 중 체계적 문헌 검토를 위해 52개, 메타 분석을 위해 32개의 논문이 선택되었습니다. 기존 회귀 기반 모델의 경우 전체 통합 C-통계량은 0.75 [0.73–0.77]이었고, 머신러닝 기반 모델의 경우 0.76 [0.72–0.79]이었습니다. C-통계량에서 높은 이질성이 관찰되었습니다. 기존 회귀 기반 모델에서 이질성의 원인으로 참가자의 나이 (p = 0.011)와 성별 (p = 0.044), 그리고 모델에서 고려된 위험 요인의 수 (p = 0.001)가 확인되었습니다.\n\n\n## 단어 및 의미 목록\n\n* **Results:** 결과\n* **Of:** ~중에서, ~의\n* **articles:** 논문들, 기사들\n* **were selected:** 선택되었다\n* **for:** ~을 위해\n* **systematic review:** 체계적 문헌 검토\n* **and:** 그리고\n* **meta-analysis:** 메타 분석\n* **The overall pooled C-statistics:** 전체 통합 C-통계량 (C-statistic은 통계량의 일종으로, 예측 모델의 성능을 나타내는 지표)\n* **was:** 이었다\n* **for:** ~에 대한\n* **traditional regression-based models:** 기존 회귀 기반 모델\n* **machine learning-based models:** 머신러닝 기반 모델\n* **High heterogeneity:** 높은 이질성 (연구 결과의 차이)\n* **in:** ~에서\n* **C-statistic:** C-통계량\n* **was observed:** 관찰되었다\n* **The age:** 나이\n* **sex:** 성별\n* **of the participants:** 참가자들의\n* **and:** 그리고\n* **the number of risk factors:** 위험 요인의 수\n* **considered:** 고려된\n* **in the model:** 모델에서\n* **were identified:** 확인되었다\n* **as a source of heterogeneity:** 이질성의 원인으로\n* **in:** ~에서\n* **traditional regression-based models:** 기존 회귀 기반 모델\n\n\n"
+    },
+    {
+      "type": "한국어 번역 [gemini-1.5-flash]",
+      "content": "---\n\n\n### 원문: Results\n### 번역: 결과\n---\n\n\n\n---\n\n\n### 원문: Of 14,778 articles, 52 articles were selected for systematic review and 32 for meta-analysis.\n### 번역: 14,778편의 논문 중 52편이 체계적 문헌고찰에, 32편이 메타분석에 선택되었습니다.\n---\n\n\n\n---\n\n\n### 원문: The overall pooled C-statistics was 0.75 [0.73–0.77] for the traditional regression-based models and 0.76 [0.72–0.79] for the machine learning-based models.\n### 번역: 기존 회귀 분석 기반 모델의 경우 전체 통합 C-통계량은 0.75 [0.73~0.77]이었고, 기계 학습 기반 모델의 경우 0.76 [0.72~0.79]이었습니다.\n---\n\n\n\n---\n\n\n### 원문: High heterogeneity in C-statistic was observed.\n### 번역: C-통계량에서 높은 이질성이 관찰되었습니다.\n---\n\n\n\n---\n\n\n### 원문: The age (p = 0.011), and sex (p = 0.044) of the participants and the number of risk factors considered in the model (p = 0.001) were identified as a source of heterogeneity in traditional regression-based models.\n### 번역: 기존 회귀 분석 기반 모델에서 이질성의 원인으로 참가자의 연령 (p = 0.011)과 성별 (p = 0.044), 그리고 모델에 고려된 위험 요인의 수 (p = 0.001)가 확인되었습니다.\n---\n\n\n"
+    },
+    {
+      "type": "요약 [gemini-1.5-flash]",
+      "content": "고혈압 위험 예측 모델에 대한 종합적인 평가를 시도한 결과, 허용 가능하거나 우수한 예측 성능을 가진 다수의 모델이 확인되었습니다. 하지만 외부 검증을 거친 모델은 소수에 불과했으며, 많은 연구에서 편향 및 적용 가능성의 위험이 우려되었습니다. 전반적으로, 기존 회귀 분석과 머신러닝 방법으로부터 도출된 모델 간의 판별력은 유사했습니다. 임상 현장에 고혈압 위험 예측 모델을 구현하기 위해서는 더 많은 외부 검증과 영향 연구가 필요합니다.\n"
+    },
+    {
+      "type": "한글→영어 (단어 분석) [gemini-1.5-flash]",
+      "content": "## 번역\n\n본 연구에서는 고혈압 위험 예측 모델에 대한 포괄적인 평가를 시도했습니다. 수용 가능한 수준에서 우수한 예측 성능을 보이는 많은 모델들이 확인되었습니다. 외부적으로 검증된 모델은 소수에 불과했으며, 많은 연구에서 편향 및 적용 가능성의 위험이 우려되었습니다. 전반적으로, 기존 회귀 분석 및 기계 학습 방법으로부터 도출된 모델 간의 차별성은 유사했습니다. 임상 현장에서 고혈압 위험 예측 모델을 구현하기 위한 더 많은 외부 검증 및 영향 연구가 필요합니다.\n\n\n## 단어 및 의미 목록\n\n* **Conclusion:** 결론\n* **We:** 우리는\n* **attempted:** 시도했습니다\n* **to provide:** 제공하기 위해\n* **a comprehensive evaluation:** 포괄적인 평가\n* **of:** 의\n* **hypertension:** 고혈압\n* **risk:** 위험\n* **prediction:** 예측\n* **models:** 모델들\n* **Many:** 많은\n* **with:** ~을 가진\n* **acceptable-to-good:** 수용 가능한 수준에서 우수한\n* **predictive:** 예측적인\n* **performance:** 성능\n* **were identified:** 확인되었습니다\n* **Only a few:** 소수의\n* **were externally validated:** 외부적으로 검증되었습니다\n* **and:** 그리고\n* **the risk of bias:** 편향의 위험\n* **and:** 그리고\n* **applicability:** 적용 가능성\n* **was a concern:** 우려였습니다\n* **in:** ~에서\n* **many studies:** 많은 연구들\n* **Overall:** 전반적으로\n* **discrimination:** 차별성\n* **was similar:** 유사했습니다\n* **between:** ~사이에\n* **models derived from:** ~에서 도출된 모델들\n* **traditional regression analysis:** 기존 회귀 분석\n* **and:** 그리고\n* **machine learning methods:** 기계 학습 방법\n* **More:** 더 많은\n* **external validation:** 외부 검증\n* **and:** 그리고\n* **impact studies:** 영향 연구\n* **to implement:** 구현하기 위해\n* **the hypertension risk prediction model:** 고혈압 위험 예측 모델\n* **in:** ~에서\n* **clinical practice:** 임상 현장\n\n\n"
+    },
+    {
+      "type": "한국어 번역 [gemini-1.5-flash]",
+      "content": "---\n\n\n### 원문: Conclusion\n### 번역: 결론\n---\n\n\n\n---\n\n\n원본: We attempted to provide a comprehensive evaluation of hypertension risk prediction models.\n### 번역: 우리는 고혈압 위험 예측 모델에 대한 포괄적인 평가를 시도했습니다.\n---\n\n\n\n---\n\n\n원본: Many models with acceptable-to-good predictive performance were identified.\n### 번역: 수용 가능한 수준에서 좋은 예측 성능을 보이는 많은 모델들이 확인되었습니다.\n---\n\n\n\n---\n\n\n원본: Only a few models were externally validated, and the risk of bias and applicability was a concern in many studies.\n### 번역: 몇몇 모델만 외부적으로 검증되었으며, 많은 연구에서 편향 및 적용 가능성의 위험이 우려되었습니다.\n---\n\n\n\n---\n\n\n원본: Overall discrimination was similar between models derived from traditional regression analysis and machine learning methods.\n### 번역: 전통적인 회귀 분석과 기계 학습 방법에서 유래된 모델들 간의 전반적인 판별력은 유사했습니다.\n---\n\n\n\n---\n\n\n원본: More external validation and impact studies to implement the hypertension risk prediction model in clinical practice are required.\n### 번역: 임상 현장에 고혈압 위험 예측 모델을 구현하기 위한 더 많은 외부 검증 및 영향 연구가 필요합니다.\n---\n\n\n"
+    }
+  ]
+}
